@@ -15,8 +15,8 @@ The main research group running [Squalomix consortium](https://github.com/Squalo
 
 ## Useful tools
  
-[IGV](https://software.broadinstitute.org/software/igv/) - Integrative genomics viewer<BR>
-[JBrowse2](https://jbrowse.org/jb2/download/) - The next-generation genome browser<BR>
+[IGV](https://software.broadinstitute.org/software/igv/) - Integrative genomics viewer for desk-top visualization<BR>
+[JBrowse2](https://jbrowse.org/jb2/download/) - The next-generation genome browser for desk-top visualization<BR>
 [gVolante](https://gvolante.riken.jp/) - interface for multi-faceted genome/transcriptome assembly assessment<BR>
 [aLeaves](https://aleaves.cdb.riken.jp/aleaves/) - operable sequence collection for molecular phylogeny inference<BR>
  
