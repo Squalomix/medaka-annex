@@ -5,8 +5,9 @@ The main research group running [Squalomix consortium](https://github.com/Squalo
 ## Public database and data provision sites
 
 [Genome Browser of Medaka at Ensembl](https://asia.ensembl.org/Oryzias_latipes/Info/Index)<BR>
-[Representative genome of Medaka at NCBI Genome](https://www.ncbi.nlm.nih.gov/genome/?term=txid8090[Organism:noexp])<BR>
-[Medaka Omic Data Portal at TU Lab](http://tulab.genetics.ac.cn/medaka_omics/)
+[Representative genome of Medaka at NCBI Genome](https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_002234675.1/)<BR>
+[Medaka Omic Data Portal at TU Lab](http://tulab.genetics.ac.cn/medaka_omics/)<BR>
+[UTGB Medaka Genome Browser](http://utgenome.org/medaka/)<BR>
 
 ## Resources developed by NBRP Medaka Team 
 
