@@ -4,20 +4,20 @@ The main research group running [Squalomix consortium](https://github.com/Squalo
 
 ## Public genome database
 
-[Genome Browser of Medaka at Ensembl](https://asia.ensembl.org/Oryzias_latipes/Info/Index)
-[Representative genome of Medaka at NCBI Genome](https://www.ncbi.nlm.nih.gov/genome/?term=txid8090[Organism:noexp])
+[Genome Browser of Medaka at Ensembl](https://asia.ensembl.org/Oryzias_latipes/Info/Index)<BR>
+[Representative genome of Medaka at NCBI Genome](https://www.ncbi.nlm.nih.gov/genome/?term=txid8090[Organism:noexp])<BR>
 
 ## Resources developed by NBRP Medaka Team 
 
-[Integrative Genome Browser](https://medakabase.nbrp.jp/)
-[Central page of NBRP Medaka](https://shigen.nig.ac.jp/medaka/)
+[Integrative Genome Browser](https://medakabase.nbrp.jp/)<BR>
+[Central page of NBRP Medaka](https://shigen.nig.ac.jp/medaka/)<BR>
 
 ##Other useful pages
 
-[Oryzias latipes at NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=8090)
+[Oryzias latipes at NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=8090)<BR>
 
 
 ## Contact
 
-Write to nbrp.medaka.info@gmail.com if you have any questions.
-See announcements from NBRP Medaka Team etc. on [Twitter](https://twitter.com/nbrpmedakaomix)
+Write to nbrp.medaka.info [at] gmail.com if you have any questions.<BR>
+See announcements from NBRP Medaka Team etc. on [Twitter](https://twitter.com/nbrpmedakaomix)<BR>
