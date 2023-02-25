@@ -1,4 +1,4 @@
-# Medaka Third-party Reference Page
+# Medaka Reference Page
 
 The main research group running [Squalomix consortium](https://github.com/Squalomix/info) also participate the Medaka seciton of [NBRP (National Bioresource Project)](https://nbrp.jp/en/) administered by [MEXT, Japan](https://www.mext.go.jp/en/). This page catalogues existing data provision sites about medaka fishes and serves as their gateway. 
 
@@ -20,3 +20,4 @@ The main research group running [Squalomix consortium](https://github.com/Squalo
 ## Contact
 
 Write to nbrp.medaka.info@gmail.com if you have any questions.
+See announcements from NBRP Medaka Team etc. on [Twitter](https://twitter.com/nbrpmedakaomix)
