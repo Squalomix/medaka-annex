@@ -29,4 +29,4 @@ The main research group running [Squalomix consortium](https://github.com/Squalo
 ## Contact
 
 Write to nbrp.medaka.info [at] gmail.com if you have any questions.<BR>
-See announcements from NBRP Medaka Team etc. on [Twitter](https://twitter.com/nbrpmedakaomix)<BR>
+See announcements from NBRP Medaka Informatics Team etc. on [Twitter](https://twitter.com/nbrpmedakaomix)<BR>
