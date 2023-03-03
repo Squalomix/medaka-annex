@@ -25,7 +25,7 @@ The main research group running [Squalomix consortium](https://github.com/Squalo
 ## Other useful pages
 
 Oryzias latipes at [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=8090)<BR>
-Oryzias latipes at the tree browser [OneZoom](https://www.onezoom.org/life/@Oryzias_latipes=942673?img=best_any&anim=flight#x466,y649,w0.8621)<BR>
+The taxon Beloniformes including Oryzias latipes at the tree browser [OneZoom](https://www.onezoom.org/life/@Beloniformes=837201?img=best_any&anim=flight#x1654,y529,w4.7607)<BR>
 
 
 ## Contact
