@@ -23,6 +23,7 @@ Scheduled maintenance of the web server MedakaBase will also be announced in thi
 [JBrowse2](https://jbrowse.org/jb2/download/) - The next-generation genome browser for desk-top visualization<BR>
 [gVolante](https://gvolante.riken.jp/) - interface for multi-faceted genome/transcriptome assembly assessment<BR>
 [aLeaves](https://aleaves.cdb.riken.jp/aleaves/) - operable sequence collection for molecular phylogeny inference<BR>
+[MAFFT](https://mafft.cbrc.jp/alignment/server/index.html) - multiple sequence alignment
  
   
 ## Other useful pages
