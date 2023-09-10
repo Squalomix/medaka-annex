@@ -28,6 +28,7 @@ Scheduled maintenance of the web server MedakaBase will also be announced in thi
   
 ## Other useful pages
 
+[Genome assemblies for Oryzias species at NCBI Genome](https://www.ncbi.nlm.nih.gov/genome/browse#!/overview/Oryzias)<BR>
 Oryzias latipes at [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=8090)<BR>
 The taxon Beloniformes including [Oryzias latipes](https://www.onezoom.org/life/@Beloniformes=837201?img=best_any&anim=flight#x1654,y529,w4.7607) at the tree browser [OneZoom](https://www.onezoom.org/)<BR>
 
