@@ -4,7 +4,7 @@ The main research group running [Squalomix consortium](https://github.com/Squalo
 
 Scheduled maintenance of the web server MedakaBase will also be announced in this page.
 
-The MedakaBase Sub page (https://medakabase.annotation.jp/) hosting the stable JBrowse-powered genome browser will be inaccessible on September 21st at least, for technical maintenance. The main webserver (https://medakabase.nbrp.jp) hosting the rest of the functions will not be affected.
+**The MedakaBase Sub page (https://medakabase.annotation.jp/) hosting the stable JBrowse-powered genome browser will be inaccessible on September 21st at least, for technical maintenance. The main webserver (https://medakabase.nbrp.jp) hosting the rest of the functions will not be affected.**
 
 ## Public database and data provision sites
 
