@@ -14,7 +14,7 @@ Scheduled maintenance of the web server MedakaBase will also be announced in thi
 ## Resources developed by NBRP Medaka Team 
 
 [MedakaBase](https://medakabase.nbrp.jp/) - web server for medaka fish biology by NBRP<BR>
-[MedakaBase Sub](https://medaka.annotation.jp/viewer/Hd-rR/) - use this for JBrowse<BR>
+[MedakaBase Sub](https://medakabase.annotation.jp/viewer/Hd-rR/) - use this for JBrowse<BR>
 [Central page of NBRP Medaka](https://shigen.nig.ac.jp/medaka/)<BR>
 
 ## Useful tools
