@@ -10,6 +10,7 @@ Scheduled maintenance of the web server MedakaBase will also be announced in thi
 [Representative genome of Medaka at NCBI Genome](https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_002234675.1/)<BR>
 [Medaka Omics Data Portal at Tu Lab](http://tulab.genetics.ac.cn/medaka_omics/)<BR>
 [UTGB Medaka Genome Browser](http://utgenome.org/medaka/)<BR>
+(link to 'unanchored contigs': [https://utgenome.org/medaka_v2/#!Assembly.md](https://utgenome.org/medaka_v2/#!Assembly.md))
 
 ## Resources developed by NBRP Medaka Team 
 
