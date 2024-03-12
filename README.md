@@ -16,7 +16,7 @@ Genome Browser [Genome Data Viewer at NCBI](https://www.ncbi.nlm.nih.gov/genome/
 (link to 'unanchored contigs': [https://utgenome.org/medaka_v2/#!Assembly.md](https://utgenome.org/medaka_v2/#!Assembly.md); [http://viewer.shigen.info/medaka/download.php](http://viewer.shigen.info/medaka/download.php))<BR>
 [Genome assembly of Medaka Hd-rR including the unanchored contigs at NCBI ](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_004347445.1/)<BR>
 
-[All Oryzias genome assemblies avilable at NCBI](https://www.ncbi.nlm.nih.gov/datasets/genome/?taxon=8090)<BR>
+[All Oryzias genome assemblies avilable at NCBI](https://www.ncbi.nlm.nih.gov/datasets/genome/?taxon=8089)<BR>
 
 ## Resources developed by NBRP Medaka Team 
 
