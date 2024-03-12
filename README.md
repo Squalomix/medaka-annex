@@ -6,14 +6,14 @@ Scheduled maintenance of the web server MedakaBase will also be announced in thi
 
 ## Public database and data provision sites
 
-[Genome Browser of Medaka at Ensembl](https://asia.ensembl.org/Oryzias_latipes/Info/Index)<BR>
-[Representative genome of Medaka at NCBI Genome](https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_002234675.1/)<BR>
+[Genome Browser of Medaka Hd-rR at Ensembl](https://asia.ensembl.org/Oryzias_latipes/Info/Index)<BR>
+[Representative genome of Medaka Hd-rR at NCBI Genome](https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_002234675.1/)<BR>
 Genome Browser [Genome Data Viewer at NCBI](https://www.ncbi.nlm.nih.gov/genome/gdv/browser/genome/?id=GCF_002234675.1)<BR>
 [Medaka Omics Data Portal at Tu Lab](http://tulab.genetics.ac.cn/medaka_omics/)<BR>
 [UTGB Medaka Genome Browser](http://utgenome.org/medaka/)<BR>
 
 (link to 'unanchored contigs': [https://utgenome.org/medaka_v2/#!Assembly.md](https://utgenome.org/medaka_v2/#!Assembly.md); [http://viewer.shigen.info/medaka/download.php](http://viewer.shigen.info/medaka/download.php))<BR>
-[Genome assembly of Medaka including the unanchored contigs at NCBI ](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_004347445.1/)<BR>
+[Genome assembly of Medaka Hd-rR including the unanchored contigs at NCBI ](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_004347445.1/)<BR>
 
 ## Resources developed by NBRP Medaka Team 
 
