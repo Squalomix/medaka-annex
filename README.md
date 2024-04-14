@@ -30,6 +30,11 @@ Genome Browser [Genome Data Viewer at NCBI](https://www.ncbi.nlm.nih.gov/genome/
 [gVolante](https://gvolante.riken.jp/) - interface for multi-faceted genome/transcriptome assembly assessment<BR>
 [aLeaves](https://aleaves.cdb.riken.jp/aleaves/) - operable sequence collection for molecular phylogeny inference<BR>
 [MAFFT](https://mafft.cbrc.jp/alignment/server/index.html) - multiple sequence alignment
+
+## Gene Ontology exploration tools (accepting zebrafish)
+
+[Gene Ontology Resource](https://geneontology.org/) - the world’s largest source of information on the functions of genes
+[gProfiler](http://biit.cs.ut.ee/gprofiler/gost) - interoperable web service for functional enrichment analysis and gene identifier mapping
  
   
 ## Other useful pages
