@@ -33,8 +33,8 @@ Genome Browser [Genome Data Viewer at NCBI](https://www.ncbi.nlm.nih.gov/genome/
 
 ## Gene Ontology exploration tools (accepting zebrafish)
 
-[Gene Ontology Resource](https://geneontology.org/) - the world’s largest source of information on the functions of genes
-[gProfiler](http://biit.cs.ut.ee/gprofiler/gost) - interoperable web service for functional enrichment analysis and gene identifier mapping
+[Gene Ontology Resource](https://geneontology.org/) - the world’s largest source of information on the functions of genes<BR>
+[gProfiler](http://biit.cs.ut.ee/gprofiler/gost) - interoperable web service for functional enrichment analysis and gene identifier mapping<BR>
  
   
 ## Other useful pages
