@@ -46,4 +46,4 @@ The taxon Beloniformes including [Oryzias latipes](https://www.onezoom.org/life/
 ## Contact
 
 Write to nbrp.medaka.info [at] gmail.com if you have any questions.<BR>
-See announcements etc. from NBRP Medaka Informatics Team on [Twitter](https://twitter.com/nbrpmedakaomix)<BR>
+See announcements etc. from NBRP Medaka Informatics Team on [X(Twitter)](https://twitter.com/nbrpmedakaomix)<BR>
