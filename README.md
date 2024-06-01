@@ -41,6 +41,7 @@ Genome Browser [Genome Data Viewer at NCBI](https://www.ncbi.nlm.nih.gov/genome/
 [Genome assemblies for Oryzias species at NCBI Genome](https://www.ncbi.nlm.nih.gov/genome/browse#!/overview/Oryzias)<BR>
 Oryzias latipes at [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=8090)<BR>
 The taxon Beloniformes including [Oryzias latipes](https://www.onezoom.org/life/@Beloniformes=837201?img=best_any&anim=flight#x1654,y529,w4.7607) at the tree browser [OneZoom](https://www.onezoom.org/)<BR>
+[NCBI BLAST in zebrafish T2T genome assembly (ASM3317019v2)](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch&PROG_DEF=blastn&BLAST_SPEC=GDH_GCA_033170195.2)
 
 
 ## Contact
