@@ -4,6 +4,8 @@ The main research group running [Squalomix consortium](https://github.com/Squalo
 
 Scheduled maintenance of the web server MedakaBase will also be announced in this page.
 
+**Latest news - Our webserver MedakaBase https://medakabase.nbrp.jp and https://medaka.annotation.jp will be inaccessible from the afternoon of November 24th to 28th, due to scheduled power outage of the institute.**
+
 ## Public database and data provision sites
 
 [Genome Browser of Medaka Hd-rR at Ensembl](https://asia.ensembl.org/Oryzias_latipes/Info/Index)<BR>
