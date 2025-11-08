@@ -27,7 +27,7 @@ Genome Browser [Genome Data Viewer at NCBI](https://www.ncbi.nlm.nih.gov/genome/
  
 [IGV](https://software.broadinstitute.org/software/igv/) - Integrative genomics viewer for desk-top visualization<BR>
 [JBrowse2](https://jbrowse.org/jb2/download/) - The next-generation genome browser for desk-top visualization<BR>
-[gVolante](https://gvolante.riken.jp/) - interface for multi-faceted genome/transcriptome assembly assessment<BR>
+gVolante - interface for multi-faceted genome/transcriptome assembly assessment (unlinked because of cessation)<BR>
 [aLeaves](https://aleaves.cdb.riken.jp/aleaves/) - operable sequence collection for molecular phylogeny inference<BR>
 [MAFFT](https://mafft.cbrc.jp/alignment/server/index.html) - multiple sequence alignment
 
