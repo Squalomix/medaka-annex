@@ -12,7 +12,7 @@ Scheduled maintenance of the web server MedakaBase will also be announced in thi
 [Genome Browser of Medaka Hd-rR at legacy Ensembl](https://asia.ensembl.org/Oryzias_latipes/Info/Index)<BR>
 [Latest genome assembly of Medaka Hd-rR (T2T) at NCBI Genome](https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_002234675.1/)<BR>
 [Gene models on the representative genome of Medaka Hd-rR at NCBI](https://www.ncbi.nlm.nih.gov/refseq/annotation_euk/Oryzias_latipes/GCF_053564925.1-RS_2026_01/)<BR>
-Genome Browser for Hd-rR T2T assembly [Genome Data Viewer at NCBI]([https://www.ncbi.nlm.nih.gov/genome/gdv/browser/genome/?id=GCF_002234675.1)<BR>
+Genome Browser for Hd-rR T2T assembly [Genome Data Viewer at NCBI](https://www.ncbi.nlm.nih.gov/genome/gdv/browser/genome/?id=GCF_002234675.1)<BR>
 [Medaka Omics Data Portal at Tu Lab](http://tulab.genetics.ac.cn/medaka_omics/)<BR>
 [UTGB Medaka Genome Browser](http://utgenome.org/medaka/)<BR>
 
