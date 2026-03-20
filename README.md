@@ -2,7 +2,7 @@
 
 The main research group running [Squalomix consortium](https://squalomix.github.io/) also participates in the Medaka seciton of [NBRP (National Bioresource Project)](https://nbrp.jp/en/) administered by [MEXT, Japan](https://www.mext.go.jp/en/). This page catalogues existing data provision sites about medaka fishes and serves as their comprehensive gateway. 
 
-Sorry for the continuous outage of MedakaBase since last week. We're currently performing some work to keep things running smoothly.
+Sorry for the continuous outage of MedakaBase since mid March. We're currently performing some work to keep things running smoothly.
 ​The site will be back up as soon as the work is finished. Thanks for hanging in there!
 
 Scheduled maintenance of the web server MedakaBase will also be announced in this page.
