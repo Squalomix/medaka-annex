@@ -26,7 +26,7 @@ Auxillary information for the previous Hd-rR genome assembly (ASM223467v1, GCF_0
 
 [MedakaBase](https://medakabase.nbrp.jp/) - web server for medaka fish biology by NBRP<BR>
 [Central page of NBRP Medaka](https://shigen.nig.ac.jp/medaka/)<BR>
-File repository at [FigShare](https://figshare.com/projects/NBRP-Medaka/176391)
+File repository at [FigShare](https://figshare.com/projects/NBRP-Medaka/176391) - Download [files](https://doi.org/10.6084/m9.figshare.31971045) for all tracks at MedakaBase
 
 ## Useful tools
  
