@@ -17,7 +17,7 @@ Genome Browser for Hd-rR T2T assembly [Genome Data Viewer at NCBI](https://www.n
 [UTGB Medaka Genome Browser](http://utgenome.org/medaka/)<BR>
 
 Auxillary information for the previous Hd-rR genome assembly (ASM223467v1, GCF_002234675.1)<BR>
-(link to 'unanchored contigs': [https://utgenome.org/medaka_v2/#!Assembly.md](https://utgenome.org/medaka_v2/#!Assembly.md); [http://viewer.shigen.info/medaka/download.php](http://viewer.shigen.info/medaka/download.php))<BR>
+(link to 'unanchored contigs': [http://viewer.shigen.info/medaka/download.php](http://viewer.shigen.info/medaka/download.php)<BR>
 [Genome assembly of Medaka Hd-rR including the unanchored contigs at NCBI ](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_004347445.1/)<BR>
 
 [All Oryzias genome assemblies avilable at NCBI](https://www.ncbi.nlm.nih.gov/datasets/genome/?taxon=8089)<BR>
